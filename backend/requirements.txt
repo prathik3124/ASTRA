@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic-settings
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+google-generativeai
