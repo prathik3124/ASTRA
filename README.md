@@ -1,2 +1,2 @@
-# ASTRA
-Autism Spectrum Therapeutic & Resource Assistant
+# Astra
+Autism Spectrum Therapeutic &amp; Resource Assistant
