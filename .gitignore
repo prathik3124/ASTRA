@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python / Backend
 venv/
 __pycache__/
@@ -18,3 +19,25 @@ dist/
 .vscode/
 .idea/hand_landmarks.csv 
 venv/ 
+=======
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node / Frontend
+node_modules/
+build/
+dist/
+.expo/
+
+# ML
+*.ipynb_checkpoints
+
+# OS / IDE specific
+.DS_Store
+.vscode/
+.idea/hand_landmarks.csv 
+venv/ 
+>>>>>>> 979e556006669eef6c9248849b3e8110577c24f2
